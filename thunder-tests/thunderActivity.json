@@ -1,0 +1,97 @@
+[
+  {
+    "_id": "bbc6c8af-54d2-4582-8b28-4177927ddde6",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:5000/fruits",
+    "url": "http://localhost:5000/fruits",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2023-02-02T00:08:14.340Z",
+    "modified": "2023-02-02T00:13:16.082Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"name\": \"Banana\",\n  \"price\": 14\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "7d817d63-8f9f-463c-af83-57111ca525db",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:5000/fruits",
+    "url": "http://localhost:5000/fruits",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-02-02T00:09:45.571Z",
+    "modified": "2023-02-02T00:13:21.601Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"name\": \"Banana\",\n  \"price\": 14\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "29a00457-134a-4151-ac6b-bd427a481d8c",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:5000/fruits/1",
+    "url": "http://localhost:5000/fruits/1",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-02-02T00:11:09.896Z",
+    "modified": "2023-02-02T00:11:09.896Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"name\": \"Banana\",\n  \"price\": 14\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "1538ab13-2194-4aab-b306-6e46fca2b29a",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:5000/fruits/2",
+    "url": "http://localhost:5000/fruits/2",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-02-02T00:11:16.756Z",
+    "modified": "2023-02-02T00:11:38.814Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"name\": \"Manga\",\n  \"price\": 10\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "887fa4a0-f26c-4bf5-b736-cbc4911693e6",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:5000/fruits/2",
+    "url": "http://localhost:5000/fruits/2",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2023-02-02T00:11:44.893Z",
+    "modified": "2023-02-02T00:11:44.893Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"name\": \"Manga\",\n  \"price\": 10\n}",
+      "form": []
+    },
+    "tests": []
+  }
+]
